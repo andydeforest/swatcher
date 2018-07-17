@@ -1,0 +1,13 @@
+.brand-sm {
+	font-size: 16px !important;
+	color: rgb(170, 170, 170) !important;
+}
+
+.nav-item img {
+    opacity: 0.5;
+    filter: alpha(opacity=50);  
+}
+
+.nav-border {
+    border-left: 1px solid lightgray;
+}

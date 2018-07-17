@@ -1,0 +1,23 @@
+html,body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.fullHeight {
+    height: 100vh !important;
+    overflow: hidden;
+}
+
+#primaryNav {
+    border-bottom: 1px solid lightgray;
+}
+
+.brand-main {
+    font-family: 'Shrikhand', cursive;
+    font-size: 30px;
+    color: #EE6C2F !important;
+}
+
+.brand-sm {
+    font-size: 16px !important;
+    color: rgb(170, 170, 170) !important;
+}
